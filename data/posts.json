@@ -1,0 +1,23 @@
+[
+  {
+    "title": "title One",
+    "content": "some text",
+    "author": "author One",
+    "dateCreated": "date",
+    "id": ""
+  },
+  {
+    "id": "5ef2cb8e-bc58-4fb0-9593-188e46c6564e",
+    "title": "title two",
+    "content": "some text from post two",
+    "author": "post two author",
+    "dateCreated": "date post two was created"
+  },
+  {
+    "id": "3fd0f279-c3a3-406a-a06e-f2abf9550e80",
+    "title": "title four",
+    "content": "some text from post four",
+    "author": "post four author",
+    "dateCreated": "date post four was created"
+  }
+]
